@@ -15,6 +15,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var trueButton: UIButton!
     @IBOutlet weak var falseButton: UIButton!
     
+    // It's commend 
     let quiz = [
         "Four + Two is equal to Six.",
         "Five - Three is greater than One.",
